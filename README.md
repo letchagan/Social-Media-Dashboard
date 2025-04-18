@@ -1,6 +1,6 @@
 ## Social Media Dashboard
 
-**URL**: https://lovable.dev/projects/889d0d89-46d7-4894-b025-b6b69ad5248e
+**URL**:
 
 **Use your preferred IDE**
 
